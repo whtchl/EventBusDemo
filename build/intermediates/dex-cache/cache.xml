@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\04_workspace\04_android\EventBusDemo\app\libs\eventbus.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bce1c8d061ecc7d7664ae13bb5d29543ff93ca52">
+        <dex dex="D:\04_workspace\04_android\EventBusDemo\app\build\intermediates\pre-dexed\debug\eventbus_a21a8ba7b869cfafca3364d9c16159f72b61c2ff.jar" />
+    </item>
+    <item
+        jar="D:\04_workspace\04_android\EventBusDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ae7dc2246f6846e75785706d79e05691346c8ecf">
+        <dex dex="D:\04_workspace\04_android\EventBusDemo\app\build\intermediates\pre-dexed\debug\instant-run_399d2046ab735f508ffcfc11dd5ac8d3d5ef6702.jar" />
+    </item>
+    <item
+        jar="D:\04_workspace\04_android\EventBusDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="12fe4d808a4bbdd59187f3ebede28d895df16d09">
+        <dex dex="D:\04_workspace\04_android\EventBusDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3cee7a5370222ab5f3fc145361f59bcc0fd4de97.jar" />
+    </item>
+    <item
+        jar="D:\Users\tchl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\04_workspace\04_android\EventBusDemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_d47548e9d3b7adaabaf5feb2970f804645df1ae8.jar" />
+    </item>
+
+</items>

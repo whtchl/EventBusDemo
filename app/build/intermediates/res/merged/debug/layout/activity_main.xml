@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/btnPostThread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="methodPost"
+        android:text="BtnPostThreadDemo" />
+    
+    <Button
+        android:id="@+id/btnMainThread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="methodMain"
+        android:text="BtnMainThreadDemo" />
+    
+    <Button
+        android:id="@+id/btnBackThread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="methodBack"
+        android:text="BtnBackThreadDemo" />
+    
+    <Button
+        android:id="@+id/btnAsyncThread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="methodAsync"
+        android:text="BtnAsyncThreadDemo" />
+    
+     <Button
+        android:id="@+id/btnsubAsyncThread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="methodSubAsync"
+        android:text="BtnSubAsyncThreadDemo" />
+     
+      <Button
+        android:id="@+id/btnsubBackThread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="methodSubBack"
+        android:text="BtnSubBackThreadDemo" />
+      
+      <Button
+        android:id="@+id/btnsubMainThread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="methodSubMain"
+        android:text="BtnSubMainThreadDemo" />
+      
+      <Button
+        android:id="@+id/btnsubPostThread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="methodSubPost"
+        android:text="BtnSubPostThreadDemo" />
+
+</LinearLayout>
